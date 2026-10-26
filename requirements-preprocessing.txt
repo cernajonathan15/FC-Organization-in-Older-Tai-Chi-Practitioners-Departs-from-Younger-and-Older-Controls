@@ -1,0 +1,17 @@
+# Preprocessing environment (folder 01), as in Cerna et al. (2024). Python >= 3.10.
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
+seaborn
+mne
+mne-icalabel
+mne-connectivity
+nilearn
+nibabel
+networkx
+hmmlearn
+numba
+# GPU acceleration in steps 3-4 (match your CUDA version, e.g. cupy-cuda12x)
+cupy

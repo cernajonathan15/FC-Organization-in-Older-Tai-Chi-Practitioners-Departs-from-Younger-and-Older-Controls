@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article."
+title: "Functional Connectivity Organization in Older Tai Chi Practitioners Diverges from Younger and Older Control Phenotypes: analysis code"
+type: software
+license: MIT
+authors:
+  - family-names: Cerna
+    given-names: Jonathan
+    affiliation: University of Illinois Urbana-Champaign
+  - family-names: Gupta
+    given-names: Prakhar
+  - family-names: He
+    given-names: Maxine
+  - family-names: Ziegelman
+    given-names: Liran
+  - family-names: Hu
+    given-names: Yang
+  - family-names: Hernandez
+    given-names: Manuel E.
+    affiliation: University of Illinois Urbana-Champaign
+preferred-citation:
+  type: article
+  title: "Functional Connectivity Organization in Older Tai Chi Practitioners Diverges from Younger and Older Control Phenotypes"
+  journal: "Frontiers in Aging Neuroscience"
+  status: submitted
+  authors:
+    - family-names: Cerna
+      given-names: Jonathan
+    - family-names: Gupta
+      given-names: Prakhar
+    - family-names: He
+      given-names: Maxine
+    - family-names: Ziegelman
+      given-names: Liran
+    - family-names: Hu
+      given-names: Yang
+    - family-names: Hernandez
+      given-names: Manuel E.
